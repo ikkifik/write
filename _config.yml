@@ -101,4 +101,7 @@ theme: typo
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/ikkifik/write.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: gh-pages
+  message: initial deploy
