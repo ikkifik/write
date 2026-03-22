@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/ikkifik/write.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
-  message: fix deployment
+  message: deployment update
