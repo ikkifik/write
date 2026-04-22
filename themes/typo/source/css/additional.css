@@ -39,3 +39,8 @@
     color: lightslategrey;
     background-color: rgb(245, 245, 245);
 }
+
+.personal-disclaimer {
+    font-size: x-small;
+    text-align: center;
+}
