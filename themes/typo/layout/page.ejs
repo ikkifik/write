@@ -1,0 +1,10 @@
+<article class="post">
+  <% if (is_page()) { %>
+  <div class="post-title"><%= page.title %></div>
+  <% } %>
+
+  <main class="page-content"><%- page.content %></main>
+
+</article>
+
+<%- js('js/highlight.js') %>
