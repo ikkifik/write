@@ -3,7 +3,8 @@ favicon: /icon.svg
 icon: /icon.svg
 
 menu:
-  home: https://www.zuhdifikri.my.id
+  # home: https://www.zuhdifikri.my.id
   quotes: /quotes
+  resep: /resep
 
 copyright: 2026 Zuhdi Fikri

@@ -1,5 +1,5 @@
 <ul class="archives">
-  <% site.posts.filter(post => post.source.includes('_posts/main/')).forEach(function(post){ %>
+  <% site.posts.filter(post => post.source.includes('_posts/resep/')).forEach(function(post){ %>
   <li class="archive-item">
     <span class="date"><%= date(post.date, "YYYY.MM.DD") %></span>
     <a class="title" href="<%- url_for(post.path) %>"><%= post.title %></a>
