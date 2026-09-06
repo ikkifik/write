@@ -20,3 +20,6 @@ date: 2026-03-22 20:32:17
 
 > "What doesn’t kill you makes you stronger"
 --Friedrich Nietzsche
+
+> "Orang-orang aslinya ngga sekeren kamu, bedanya cuma banyak bacot aja."
+--ZF
